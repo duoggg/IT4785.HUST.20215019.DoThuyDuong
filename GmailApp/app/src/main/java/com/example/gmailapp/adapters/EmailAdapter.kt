@@ -2,13 +2,14 @@ package com.example.gmailapp.adapters
 
 import android.view.LayoutInflater
 import android.view.View
-import android.view.ViewGroup
-import android.widget.ImageView
-import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.example.gmailapp.R
 import com.example.gmailapp.models.EmailModel
+import android.view.ViewGroup
+import android.widget.ImageView
+import android.widget.TextView
+
 
 class EmailAdapter(private val emailList: List<EmailModel>) : RecyclerView.Adapter<EmailAdapter.EmailViewHolder>() {
 
