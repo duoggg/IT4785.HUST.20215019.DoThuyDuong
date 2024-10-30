@@ -12,6 +12,7 @@ import java.math.BigDecimal
 import java.math.MathContext
 import java.math.RoundingMode
 
+
 class MainActivity : AppCompatActivity() {
     private lateinit var inputAmount: EditText
     private lateinit var outputAmount: EditText
