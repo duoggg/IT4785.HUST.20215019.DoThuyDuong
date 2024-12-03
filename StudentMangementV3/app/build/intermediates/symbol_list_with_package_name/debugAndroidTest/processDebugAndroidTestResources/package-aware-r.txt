@@ -1,0 +1,3 @@
+com.example.studentmanagementv3.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

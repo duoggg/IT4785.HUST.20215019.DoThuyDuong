@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnSave
+id btnUpdate
+id editMSSV
+id editName
+id lv
+id menu_add
+id menu_edit
+id menu_remove
+id newMSSV
+id newName
+id textView
+id textView2
+id textView3
+id tvmssv
+id tvname
+layout activity_add_student
+layout activity_edit_student
+layout activity_main
+layout layout_item
+menu context_menu
+menu option_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.OptionMenu_contextMenu
+style Theme.OptionMenu_contextMenu
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,6 @@
+com.example.studentmanagementv3.test.app-core-1.6.1-0 C:\Users\Admin\.gradle\caches\transforms-4\96736f29a8c5a94f362b7bc4969770b5\transformed\core-1.6.1\res
+com.example.studentmanagementv3.test.app-tracing-1.2.0-1 C:\Users\Admin\.gradle\caches\transforms-4\cdc8ecd61ded947b7e71c41ed63d6ef7\transformed\tracing-1.2.0\res
+com.example.studentmanagementv3.test.app-androidTest-2 D:\Course 3\MObile\New folder\IT4785.HUST.20215113.LeCaoPhong\StudentMangementV3\app\build\generated\res\resValues\androidTest\debug
+com.example.studentmanagementv3.test.app-mergeDebugAndroidTestResources-3 D:\Course 3\MObile\New folder\IT4785.HUST.20215113.LeCaoPhong\StudentMangementV3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.studentmanagementv3.test.app-mergeDebugAndroidTestResources-4 D:\Course 3\MObile\New folder\IT4785.HUST.20215113.LeCaoPhong\StudentMangementV3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.studentmanagementv3.test.app-debugAndroidTest-5 D:\Course 3\MObile\New folder\IT4785.HUST.20215113.LeCaoPhong\StudentMangementV3\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
